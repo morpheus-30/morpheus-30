@@ -1,10 +1,10 @@
-<h2 align="center">Hi, I'm Ridham Singhal 👋</h2>
+<h2 align="center">Hi, I'm Nakshatra Chandna :) </h2>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+developer" /></a>
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
 </p>
 <p>
 Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
