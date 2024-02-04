@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif" />
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
 </p>
 <p>
 I'm a go-getter App Developer who loves diving into digital adventures. With a good amount of experience, I enjoy juggling different projects. I'm passionate, hardworking, and always up for learning new tech tricks. Let's turn code into cool stuff! 📱💻🚀.
@@ -15,7 +15,7 @@ I'm a go-getter App Developer who loves diving into digital adventures. With a g
 
 </p>
 
-<img align="right" src="https://iili.io/J08w4je.gif">
+<img align="right" width="300" height="300" src="https://iili.io/J08w4je.gif" >
 <br>
   <a align='center' href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
