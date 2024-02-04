@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" />
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif" />
 </p>
 <p>
-Self-learned and self-motivated Web Developer with medium level of experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
+I'm a go-getter App Developer who loves diving into digital adventures. With a good amount of experience, I enjoy juggling different projects. I'm passionate, hardworking, and always up for learning new tech tricks. Let's turn code into cool stuff! 📱💻🚀.
 </p>
 <p align="center">
  
@@ -15,7 +15,7 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 
 </p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" src="blob:https://www.unscreen.com/5a91cc3d-063b-4103-80dc-82d0badc9a38">
 <br>
   <a align='center' href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
