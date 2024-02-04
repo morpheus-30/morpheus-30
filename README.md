@@ -15,7 +15,7 @@ I'm a go-getter App Developer who loves diving into digital adventures. With a g
 
 </p>
 
-<img align="right" src="https://iili.io/J08GoHg.md.gif">
+<img align="right" src="https://iili.io/J08w4je.gif">
 <br>
   <a align='center' href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
