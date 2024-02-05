@@ -42,7 +42,7 @@ const Nakshatra = {
   technologies: {
       frontend: {
           js: ["React JS", "Three JS" , "Node JS", "Express JS"],
-          css: ["Tailwind CSS"]
+          css: ["Tailwind CSS"],
           dart: ["Flutter"]
       },
       codeEditor: {
