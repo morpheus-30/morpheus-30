@@ -23,12 +23,12 @@ I'm a go-getter App Developer who loves diving into digital adventures. With a g
   
 **Talking about Personal Stuffs:**
 <ul>
-  <li>- 🌱 I’m currently learning Bash Scripting</li>
-  <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
-  <li>- 🤔 I’m looking for help with ``</li>
-  <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
-  <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
-  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
+  <li>- 👨🏻‍💻 I’m currently learning Bash Scripting</li>
+  <li>- 🤝🏻 I’m looking to collaborate for `Dev Projects`</li>
+  <li>- 🤔 400+ DSA problems solved on various platforms such as leetcode, coding ninjas and leetcode</li>
+  <li>- 🎨 Boom I am a designer and an artist underneath 🥷</li>
+  <li>- 💬 "Nothing good comes fast, Nothing fast ever lasts!" - NEFFEX </li>
+  <li>- 🎮 And yea which programmer doesn't play games? ;) </li>
 </ul>
 
 
