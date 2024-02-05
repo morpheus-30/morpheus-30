@@ -36,7 +36,7 @@ I'm a go-getter App Developer who loves diving into digital adventures. With a g
 ```javascript
 const Nakshatra = {
   pronouns: "He" | "Him",
-  age: 21 ,
+  age: 20 ,
   code: ["Javascript", "Python", "HTML", "CSS", "C++","Dart","Kotlin"],
   askMeAbout: ["web dev", "frontend dev", "python", "Android dev", "Hybrid App dev","Bash Scripting","Linux"],
   technologies: {
