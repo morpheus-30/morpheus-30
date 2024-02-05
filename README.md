@@ -82,6 +82,6 @@ const Nakshatra = {
 ![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RidhamRj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ridham's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhamRj&layout=compact&theme=buefy&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="hhttps://github-readme-stats.vercel.app/api?username=morpheus-30&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nakshatra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhamRj&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
