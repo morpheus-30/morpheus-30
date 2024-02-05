@@ -67,8 +67,7 @@ const Nakshatra = {
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Flutter" src="https://img.shields.io/badge/--brightgreen?style=for-the-badge&logo=flutter&label=Flutter&color=%23fefffe
-" height="25px"/>
+<img alt="Flutter" src="https://img.shields.io/badge/--brightgreen?style=for-the-badge&logo=flutter&label=Flutter&color=%23fefffe" height="25px"/>
 
  
  
