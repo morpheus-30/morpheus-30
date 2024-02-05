@@ -68,6 +68,8 @@ const Nakshatra = {
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-brightgreen?style=for-the-badge&logo=flutter&labelColor=%23191b1b&color=%23191b1b" height="25px"/>
+<img alt="Dart" src="https://img.shields.io/badge/-Dart-brightgreen?style=for-the-badge&logo=dart&labelColor=%231772b7&color=%231772b7
+" height="25px"/>
 
  
  
