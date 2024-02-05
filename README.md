@@ -46,7 +46,7 @@ const Nakshatra = {
           dart: ["Flutter"]
       },
       codeEditor: {
-          competitiveProgramming: ["VS Code"],
+          DSA: ["VS Code"],
           frontEndDev: ["VS Code"]
       }
   }
