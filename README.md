@@ -70,8 +70,7 @@ const Nakshatra = {
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-brightgreen?style=for-the-badge&logo=flutter&labelColor=%23191b1b&color=%23191b1b" height="25px"/>
 <img alt="Dart" src="https://img.shields.io/badge/-Dart-brightgreen?style=for-the-badge&logo=dart&labelColor=%231772b7&color=%231772b7" height="25px"/>
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&color=%23191b1b" height="25px"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-white?style=for-the-badge&logo=Kotlin&logoColor=white&color=%23ab6ff7
-" height="25px"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-white?style=for-the-badge&logo=Kotlin&logoColor=white&color=%23ab6ff7" height="25px"/>
 <img alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-white?style=for-the-badge&logo=leetcode&color=white" height="25px"/>
 
  
