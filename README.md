@@ -72,6 +72,9 @@ const Nakshatra = {
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-white?style=for-the-badge&logo=linux&color=%23191b1b" height="25px"/>
 <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-white?style=for-the-badge&logo=Kotlin&logoColor=white&color=%23ab6ff7" height="25px"/>
 <img alt="LeetCode" src="https://img.shields.io/badge/-Leetcode-white?style=for-the-badge&logo=leetcode&color=white" height="25px"/>
+<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=code&logoColor=black&color=blue" height="25px"/>
+<img alt="ThreeJS" src="https://img.shields.io/badge/-ThreeJS-white?style=for-the-badge&logo=code&logoColor=black&color=black" height="25px"/>
+
 
  
  
