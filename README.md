@@ -18,15 +18,14 @@ I'm a go-getter App Developer who loves diving into digital adventures. With a g
 <img align="right" width="300" height="300" style="margin:0px 20px" src="https://iili.io/J08w4je.gif" >
 <br>
   <a align='center' href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ridhamrj&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=morpheus-30&label=Profile%20Views&color=12&pretty=true" />
 </a>
   
 **Talking about Personal Stuffs:**
 <ul>
-  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
-  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
+  <li>- 🌱 I’m currently learning Bash Scripting</li>
   <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
-  <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
+  <li>- 🤔 I’m looking for help with ``</li>
   <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
   <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
   <li>- ⚡ Fun fact: I waste most of my time playing games</li>
