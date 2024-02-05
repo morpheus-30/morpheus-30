@@ -34,15 +34,16 @@ I'm a go-getter App Developer who loves diving into digital adventures. With a g
 
 #### A little more about me
 ```javascript
-const Ridham = {
+const Nakshatra = {
   pronouns: "He" | "Him",
-  age: 15 ,
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python" ],
+  age: 21 ,
+  code: ["Javascript", "Python", "HTML", "CSS", "C++","Dart","Kotlin"],
+  askMeAbout: ["web dev", "frontend dev", "python", "Android dev", "Hybrid App dev","Bash Scripting","Linux"],
   technologies: {
       frontend: {
-          js: ["React JS", "Next JS" , "Typescript" ],
-          css: ["Tailwind CSS", "SCSS/SASS"]
+          js: ["React JS", "Three JS" , "Node JS", "Express JS"],
+          css: ["Tailwind CSS"]
+          dart: ["Flutter"]
       },
       codeEditor: {
           competitiveProgramming: ["VS Code"],
