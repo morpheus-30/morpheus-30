@@ -77,9 +77,6 @@ const Nakshatra = {
 
 
  
- 
-### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
-![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=morpheus-30&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nakshatra's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morpheus-30&layout=compact&theme=buefy&hide_border=true" /></a> |
